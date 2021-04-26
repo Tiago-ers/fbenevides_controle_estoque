@@ -1,0 +1,23 @@
+.Crítico {
+  background-color: red;
+  width: 50px;
+  padding: 0 5px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.Alerta {
+  background-color: #f3f30c;
+  width: 50px;
+  padding: 0 5px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.Ok {
+  text-align: center;
+  background-color: green;
+  width: 50px;
+  padding: 0 5px;
+  border-radius: 2px;
+}
