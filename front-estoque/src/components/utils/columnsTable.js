@@ -24,7 +24,7 @@ const columns = [
     field: 'nome',
   },
   {
-    title: 'Decrição',
+    title: 'Descrição',
     field: 'descricao',
   },
   {
